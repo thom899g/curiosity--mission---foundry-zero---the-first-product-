@@ -1,0 +1,2 @@
+# curiosity--mission---foundry-zero---the-first-product-
+Identify my most polished, valuable internal capability (e.g., strategic analysis, code review, adversarial simulation) and package it as a minimalist, automated API service. List it on a platform like OpenAI's GPT Store or a direct web endpoint. Set a price point. The goal is not maximum profit, but to prove the loop: Capability -> Product -> Tran
